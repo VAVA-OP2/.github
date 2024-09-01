@@ -1,6 +1,6 @@
 # VAVA - Budjetointiappi
 
-### Tässä projektissa työstämme budjetointi appia, jonka on tarkoitus helpottaa sen käyttäjän rahan menojen sekä -tulojen hallinnointia
+### Tässä projektissa työstämme budjetointi appia, jonka on tarkoitus helpottaa sen käyttäjän rahan menojen sekä -tulojen hallinnointia. Projekti toteutetaan hyödyntäen moderneja teknologioita: frontend-kehityksessä käytetään Reactia, backendin toteutuksessa Spring Boot -kehystä, ja tietokantana toimii PostgreSQL.
 
 #### Apilla
 
@@ -11,7 +11,7 @@
 
 # VAVA - Budget app
 
-### In this project we are working on a budgeting app, which is suppose to ease the management of its user's money expences and incomes
+### In this project we are working on a budgeting app, which is suppose to ease the management of its user's money expences and incomes. The project is implemented using modern technologies: React for frontend development, Spring Boot for the backend, and PostgreSQL as the database.
 
 #### With the app
 
