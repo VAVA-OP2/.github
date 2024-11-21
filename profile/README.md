@@ -22,7 +22,7 @@ Tässä on sovelluksien alkuperäisen suunnitelman mockupit
 
 ![mockup_homepage](https://github.com/VAVA-OP2/images/blob/main/VAVA_ORG_IMAGES/VAVA_mockup_etusivu.png)
 
-![mockup_budget](image.jpg)
+![mockup_budget](https://github.com/VAVA-OP2/images/blob/main/VAVA_ORG_IMAGES/VAVA_mockup_budjetti.png)
 
 
 
@@ -48,8 +48,8 @@ Tässä on sovelluksien alkuperäisen suunnitelman mockupit
 
 These are some mockups of the original idea of the app.
 
-![mockup_homepage](image.jpg)
+![mockup_homepage](https://github.com/VAVA-OP2/images/blob/main/VAVA_ORG_IMAGES/VAVA_mockup_etusivu.png)
 
-![mockup_budget](image.jpg)
+![mockup_budget](https://github.com/VAVA-OP2/images/blob/main/VAVA_ORG_IMAGES/VAVA_mockup_budjetti.png)
 
 
