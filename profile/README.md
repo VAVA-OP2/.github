@@ -20,7 +20,7 @@
 
 Tässä on sovelluksien alkuperäisen suunnitelman mockupit
 
-![mockup_homepage](https://github.com/VAVA-OP2/images/raw/main/VAVA_mockup_etusivu.png)
+![mockup_homepage](https://github.com/VAVA-OP2/images/blob/main/VAVA_ORG_IMAGES/VAVA_mockup_etusivu.png)
 
 ![mockup_budget](image.jpg)
 
