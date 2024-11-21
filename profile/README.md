@@ -1,23 +1,55 @@
-# VAVA - Budjetointiappi
+# VAVA - Budjetointisovellus - FIN
 
-### Tässä projektissa työstämme budjetointi appia, jonka on tarkoitus helpottaa sen käyttäjän rahan menojen sekä -tulojen hallinnointia. Projekti toteutetaan hyödyntäen moderneja teknologioita: frontend on toteutettu Reactilla ja projektin backend on toteutettu käyttäen Supabasea.
+## VAVA Budjetointisovellus on suunniteltu yksinkertaistamaan henkilökohtaisten talouksien hallintaa. Tämä sovellus antaa käyttäjilleen mahdollisuuden seurata sekä tulojaan että menojaan, tarjoten intuitiivisen tavan seurata omia taloustietoja, asettaa säästötavoitteita ja visualisoida edistymistä. Reactin ja Supabasen avulla rakennettu VAVAn sovellus integroi moderneja teknologioita ja tekoalyä käyttäjäkokemuksen parantamiseksi.
 
-#### Apilla
+### Avainominaisuudet
 
-- Pysyvät tulot ja menot, kuten tuet ja vuokra, voidaan merkitä automaattiseksi osaksi budjettia
-- Menot sekä tulot liitetään eri kategorioihin käyttäjän toimesta
--	Menot ja tulot näkyvät appin etusivulla
--	Appissa käyttäjä voi asettaa säästötavoitteen, ja säästöjen edistymistä voi seurata käyrien avulla
-- Tulevaisuudessa tavoitteena hyödyntää tekoälyä
+- Budjetin automaatio: Seuraa automaattisesti pysyviä tuloja ja menoja (esim. tuet, vuokra) ja sisällyttää ne käyttäjän budjettiin.
+- Meno- ja tulokategorisointi: Antaa käyttäjille mahdollisuuden lajitella menonsa ja tulonsa custom kategorioihin helppoa seurantaa varten.
+-	Etusivun yhteenveto: Näyttää yhteenvedon tuloista ja menoista kuluvan kuukauden osalta, auttaen käyttäjiä pysymään ajan tasalla taloudestaan.
+-	Säästöt: Käyttäjät voivat asettaa säästötavoitteita ja seurata edistymistään interaktiivisen kaavion avulla.
+- Integroitu tekoäly: Antaa käyttäjälle mahdollisuuden pyytää apua tekoälyltä suoraan verkkosivustolta.
 
-# VAVA - Budget app
+### Käytetyt Teknologiat
 
-### In this project we are working on a budgeting app, which is suppose to ease the management of its user's money expences and incomes. The project is implemented using modern technologies: React for frontend development, and for the backend, the project uses Supabase.
+- Frontend: React
+- Backend: Supabase (Tietokanta, Varmennus)
+- Tekoälyn integrointi
 
-#### With the app
+### Sovelluksen alkuperäiset mockupit
 
-- Permanent incomes and expences, like benefits and rent, can be automatically marked as part of the budget
-- Expences and incomes are sorted into different categories by the user
--	Expences and incomes are shown on the apps home page
--	In the app the user can set savings goals and observe the progress of savings via charts
-- In the future, we have goals to utilize artificial intelligence
+Tässä on sovelluksien alkuperäisen suunnitelman mockupit
+
+![mockup_homepage](image.jpg)
+
+![mockup_budget](image.jpg)
+
+
+
+# VAVA - Budgeting app - ENG
+
+## VAVA's Budgeting app is designed to simplify the management of personal finances. This app allows its users to track both their income and expences, providing an intuitive way to monitor ones financials, set saving goals and visualize the progress. Built using React and Supabase, VAVA's app integrates modern technologies and AI features to enhance the user experience.
+
+### Key Features
+
+- Budget Automation: Automatically tracks permanent incomes and expenses (e.g., benefits, rent) and incorporates them into the user's budget.
+- Expense and Income Categorization: Allows users to sort their expenses and incomes into custom categories for easy tracking.
+-	Home Page Summary: Displays a summary of income and expenses for the current month, helping users stay on top of their finances.
+-	Savings: Users can set goals and monitor their savings progress via an interactive chart.
+- Integrated AI: Allows user to ask AI for help directly from the website.
+
+### Tecnologies Used
+
+- Frontend: React
+- Backend: Supabase (Database, Authentication)
+- AI Intergration
+
+### Original Mockups of The App
+
+These are some mockups of the original idea of the app.
+
+![mockup_homepage](image.jpg)
+
+![mockup_budget](image.jpg)
+
+
